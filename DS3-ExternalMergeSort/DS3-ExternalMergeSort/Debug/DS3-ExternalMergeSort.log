@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\poop\desktop\ds3-externalmergesort\ds3-externalmergesort\source.cpp(18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  DS3-ExternalMergeSort.vcxproj -> C:\Users\poop\Desktop\DS3-ExternalMergeSort\Debug\DS3-ExternalMergeSort.exe
+  DS3-ExternalMergeSort.vcxproj -> C:\Users\poop\Desktop\DS3-ExternalMergeSort\Debug\DS3-ExternalMergeSort.pdb (Partial PDB)

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\poop\desktop\a3-sorts\a3-sorts\source.cpp(79): warning C4244: 'initializing': conversion from '__int64' to 'double', possible loss of data
+  A3-Sorts.vcxproj -> C:\Users\poop\Desktop\A3-Sorts\Debug\A3-Sorts.exe
+  A3-Sorts.vcxproj -> C:\Users\poop\Desktop\A3-Sorts\Debug\A3-Sorts.pdb (Partial PDB)
